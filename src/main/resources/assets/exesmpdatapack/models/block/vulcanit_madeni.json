@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "exesmpdatapack:block/vulcanit_cevheri",
+    "up": "exesmpdatapack:block/vulcanit_cevheri",
+    "north": "exesmpdatapack:block/vulcanit_cevheri",
+    "east": "exesmpdatapack:block/vulcanit_cevheri",
+    "south": "exesmpdatapack:block/vulcanit_cevheri",
+    "west": "exesmpdatapack:block/vulcanit_cevheri",
+    "particle": "exesmpdatapack:block/vulcanit_cevheri"
+  },
+  "render_type": "solid"
+}

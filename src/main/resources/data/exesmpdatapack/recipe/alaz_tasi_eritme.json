@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 3,
+  "cookingtime": 100,
+  "ingredient": "exesmpdatapack:alaz_parcasi",
+  "result": {
+    "id": "exesmpdatapack:alaz_kulcesi"
+  }
+}

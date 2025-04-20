@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "nether_wastes",
+    "soul_sand_valley",
+    "warped_forest",
+    "crimson_forest",
+    "basalt_deltas"
+  ],
+  "features": "exesmpdatapack:alaz_madeni",
+  "step": "underground_ores"
+}

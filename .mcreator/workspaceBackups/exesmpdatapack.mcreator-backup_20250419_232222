@@ -1,0 +1,295 @@
+{
+  "mod_elements": [
+    {
+      "name": "AlazMadeni",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alaz_madeni",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/exesmpdatapack/blockstates/alaz_madeni.json",
+          "src/main/resources/assets/exesmpdatapack/models/block/alaz_madeni.json",
+          "src/main/java/net/exesmp/exesmpdatapack/block/AlazMadeniBlock.java",
+          "src/main/resources/assets/exesmpdatapack/models/item/alaz_madeni.json",
+          "src/main/resources/data/exesmpdatapack/worldgen/placed_feature/alaz_madeni.json",
+          "src/main/resources/assets/exesmpdatapack/items/alaz_madeni.json",
+          "src/main/resources/data/exesmpdatapack/neoforge/biome_modifier/alaz_madeni_biome_modifier.json",
+          "src/main/resources/data/exesmpdatapack/worldgen/configured_feature/alaz_madeni.json"
+        ]
+      }
+    },
+    {
+      "name": "AlazParcasi",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alaz_parcasi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/exesmpdatapack/models/item/alaz_parcasi.json",
+          "src/main/java/net/exesmp/exesmpdatapack/item/AlazParcasiItem.java",
+          "src/main/resources/assets/exesmpdatapack/items/alaz_parcasi.json"
+        ]
+      }
+    },
+    {
+      "name": "AlazKulcesi",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alaz_kulcesi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/exesmpdatapack/models/item/alaz_kulcesi.json",
+          "src/main/java/net/exesmp/exesmpdatapack/item/AlazKulcesiItem.java",
+          "src/main/resources/assets/exesmpdatapack/items/alaz_kulcesi.json"
+        ]
+      }
+    },
+    {
+      "name": "AlazTasiEritme",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alaz_tasi_eritme",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/exesmpdatapack/recipe/alaz_tasi_eritme.json"
+        ]
+      }
+    },
+    {
+      "name": "MistralitMadeni",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mistralit_madeni",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/exesmpdatapack/models/block/mistralit_madeni.json",
+          "src/main/resources/data/exesmpdatapack/loot_table/blocks/mistralit_madeni.json",
+          "src/main/java/net/exesmp/exesmpdatapack/block/MistralitMadeniBlock.java",
+          "src/main/resources/assets/exesmpdatapack/items/mistralit_madeni.json",
+          "src/main/resources/assets/exesmpdatapack/models/item/mistralit_madeni.json",
+          "src/main/resources/assets/exesmpdatapack/blockstates/mistralit_madeni.json"
+        ]
+      }
+    },
+    {
+      "name": "MistralitParcasi",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mistralit_parcasi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/exesmpdatapack/items/mistralit_parcasi.json",
+          "src/main/resources/assets/exesmpdatapack/models/item/mistralit_parcasi.json",
+          "src/main/java/net/exesmp/exesmpdatapack/item/MistralitParcasiItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MistralitKulcesi",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mistralit_kulcesi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/exesmpdatapack/items/mistralit_kulcesi.json",
+          "src/main/java/net/exesmp/exesmpdatapack/item/MistralitKulcesiItem.java",
+          "src/main/resources/assets/exesmpdatapack/models/item/mistralit_kulcesi.json"
+        ]
+      }
+    },
+    {
+      "name": "MistralitEritme",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mistralit_eritme",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/exesmpdatapack/recipe/mistralit_eritme.json"
+        ]
+      }
+    },
+    {
+      "name": "VulcanitMadeni",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vulcanit_madeni",
+      "metadata": {
+        "files": [
+          "src/main/java/net/exesmp/exesmpdatapack/block/VulcanitMadeniBlock.java",
+          "src/main/resources/assets/exesmpdatapack/models/block/vulcanit_madeni.json",
+          "src/main/resources/assets/exesmpdatapack/models/item/vulcanit_madeni.json",
+          "src/main/resources/assets/exesmpdatapack/items/vulcanit_madeni.json",
+          "src/main/resources/assets/exesmpdatapack/blockstates/vulcanit_madeni.json",
+          "src/main/resources/data/exesmpdatapack/loot_table/blocks/vulcanit_madeni.json"
+        ]
+      }
+    },
+    {
+      "name": "VulcanitParcasi",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vulcanit_parcasi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/exesmpdatapack/models/item/vulcanit_parcasi.json",
+          "src/main/java/net/exesmp/exesmpdatapack/item/VulcanitParcasiItem.java",
+          "src/main/resources/assets/exesmpdatapack/items/vulcanit_parcasi.json"
+        ]
+      }
+    },
+    {
+      "name": "VulcanitKulcesi",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vulcanit_kulcesi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/exesmp/exesmpdatapack/item/VulcanitKulcesiItem.java",
+          "src/main/resources/assets/exesmpdatapack/items/vulcanit_kulcesi.json",
+          "src/main/resources/assets/exesmpdatapack/models/item/vulcanit_kulcesi.json"
+        ]
+      }
+    },
+    {
+      "name": "VulcanitEritme",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vulcanit_eritme",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/exesmpdatapack/recipe/vulcanit_eritme.json"
+        ]
+      }
+    },
+    {
+      "name": "NyxiumMadeni",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nyxium_madeni",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/exesmpdatapack/items/nyxium_madeni.json",
+          "src/main/resources/assets/exesmpdatapack/blockstates/nyxium_madeni.json",
+          "src/main/resources/assets/exesmpdatapack/models/block/nyxium_madeni.json",
+          "src/main/java/net/exesmp/exesmpdatapack/block/NyxiumMadeniBlock.java",
+          "src/main/resources/assets/exesmpdatapack/models/item/nyxium_madeni.json",
+          "src/main/resources/data/exesmpdatapack/loot_table/blocks/nyxium_madeni.json"
+        ]
+      }
+    },
+    {
+      "name": "NyxiumParcasi",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nyxium_parcasi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/exesmp/exesmpdatapack/item/NyxiumParcasiItem.java",
+          "src/main/resources/assets/exesmpdatapack/models/item/nyxium_parcasi.json",
+          "src/main/resources/assets/exesmpdatapack/items/nyxium_parcasi.json"
+        ]
+      }
+    },
+    {
+      "name": "NyxiumKulcesi",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nyxium_kulcesi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/exesmp/exesmpdatapack/item/NyxiumKulcesiItem.java",
+          "src/main/resources/assets/exesmpdatapack/models/item/nyxium_kulcesi.json",
+          "src/main/resources/assets/exesmpdatapack/items/nyxium_kulcesi.json"
+        ]
+      }
+    },
+    {
+      "name": "AlazMadeniDusmeOrani",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alaz_madeni_dusme_orani",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/exesmpdatapack/loot_table/blocks/alaz_madeni.json"
+        ]
+      }
+    },
+    {
+      "name": "MistralitMadeniDusmeOran",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mistralit_madeni_dusme_oran",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/exesmpdatapack/loot_table/blocks/mistralit_madeni.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:VulcanitMadeni",
+      "~CUSTOM:MistralitMadeni",
+      "~CUSTOM:AlazMadeni"
+    ],
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:AlazMadeni"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.exesmpdatapack.nyxium_kulcesi": "Nyxium Külçesi",
+      "item.exesmpdatapack.vulcanit_parcasi": "Vulcanit Parçası",
+      "item.exesmpdatapack.nyxium_madeni": "Nyxium Madeni",
+      "item.exesmpdatapack.mistralit_parcasi": "Mistralit Parçası",
+      "item.exesmpdatapack.vulcanit_madeni": "Vulcanit Madeni",
+      "item.exesmpdatapack.alaz_madeni": "Alaz Cevheri",
+      "item.exesmpdatapack.mistralit_madeni": "Mistralit Cevheri",
+      "item.exesmpdatapack.alaz_parcasi": "Alaz Parcasi",
+      "item.exesmpdatapack.alaz_kulcesi": "Alaz Külçesi",
+      "item.exesmpdatapack.vulcanit_kulcesi": "Vulcanit Külçesi",
+      "item.exesmpdatapack.nyxium_parcasi": "Nyxium Parcasi",
+      "item.exesmpdatapack.mistralit_kulcesi": "Mistralit Külçesi"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "exesmpdatapack",
+    "modName": "eXeSMP-Datapack",
+    "version": "1.0.0",
+    "author": "fayta, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.4",
+    "modElementsPackage": "net.exesmp.exesmpdatapack"
+  },
+  "mcreatorVersion": 202500113416
+}
